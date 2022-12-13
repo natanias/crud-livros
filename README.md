@@ -20,8 +20,4 @@
 🔹 <strong>5.buscar por id</strong>
 
 
-🔹 <a href="https://www.figma.com/file/J68b9IFhGwGoEOflaVPMuv/User-Interface-Elements-(Community)?node-id=102%3A1074"><strong>Sistema RH</strong></a>
-
-<h3>🔺 Técnologias Utilizadas </h3>
-
 
