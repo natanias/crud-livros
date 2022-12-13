@@ -2,14 +2,9 @@
 
 <h2>📚 Resumo </h2> 
 
-🔹 <strong>Projeto feito em equipe na matéria de Programação Web.</strong>
-
-<br>
-
-<h2> 🚦 Requisitos </h2>
-
-
 🔹 Api que pega as informações necessárias para cada livro: id, title e author.
+
+<hr>
 
 <h3>🔺 CRUD </h3>
 
